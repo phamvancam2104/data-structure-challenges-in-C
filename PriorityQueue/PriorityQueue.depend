@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1503323521 source:c:\documents\c data structures\data-structure-challenges-in-c\priorityqueue\binaryheap.c
+	"binaryheap.h"
+	"utils.h"
+
+1503321287 c:\documents\c data structures\data-structure-challenges-in-c\priorityqueue\binaryheap.h
+	"stdio.h"
+	"stdlib.h"
+	"stdbool.h"
+
+1503322571 source:c:\documents\c data structures\data-structure-challenges-in-c\priorityqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1503318270 c:\documents\c data structures\data-structure-challenges-in-c\priorityqueue\utils.h
+
+1503318163 source:c:\documents\c data structures\data-structure-challenges-in-c\priorityqueue\swap.c
+	"utils.h"
+
